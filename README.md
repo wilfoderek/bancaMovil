@@ -1,16 +1,18 @@
 # first_bank
 
-Banca web para cobros y pagos
+Banca web para cobros y pagos mediante QR
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+El proyecto ha sido escrito en fluter por lo que te suguiero que lo abras con ese framework.
 
-A few resources to get you started if this is your first Flutter project:
+### Estructura del proyecto
+El proyecto sigue una estructura multicapas aplicando los principios S.O.L.I.D
+- ui : encuentras las interfaces con sus respectivos componentes
+- utilidad: clases de validación, estilos genpericos entre otros.
+- modelo: los modelos utilizados para la simulación del app en base al contexto.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Uso del app
+- No requiere de un correo o clave registrada pero si valida que sean correctos.Por ejemplo: pedro@hotmail.com y una clave demo: demo123
+- Una vez simulado el logueo a las cuentas bancarias(simulación) con sus respectivos transacciones.
+- También se integra un lector de código qr para realizar transferencias.
