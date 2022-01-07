@@ -18,5 +18,12 @@ El proyecto sigue una estructura multicapas aplicando los principios S.O.L.I.D
 - También se integra un lector de código qr para realizar transferencias.
 
 ### Pantallas
-- Login
+Login
+
 ![Screenshot](screenshots/1_login.jpeg)
+
+![Screenshot](screenshots/2_home.jpeg)
+
+![Screenshot](screenshots/3_menu.jpeg)
+
+![Screenshot](screenshots/4_scanner_qr.jpeg)
