@@ -16,3 +16,7 @@ El proyecto sigue una estructura multicapas aplicando los principios S.O.L.I.D
 - No requiere de un correo o clave registrada pero si valida que sean correctos.Por ejemplo: pedro@hotmail.com y una clave demo: demo123
 - Una vez simulado el logueo a las cuentas bancarias(simulación) con sus respectivos transacciones.
 - También se integra un lector de código qr para realizar transferencias.
+
+### Pantallas
+- Login
+![Screenshot](screenshots/1_login.jpeg)
